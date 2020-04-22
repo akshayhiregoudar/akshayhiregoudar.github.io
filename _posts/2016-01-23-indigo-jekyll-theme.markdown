@@ -1,7 +1,6 @@
 ---
 title: Face Detector
 layout: post
-date: 2019-11
 tag: jekyll
 headerImage: true
 projects: true
