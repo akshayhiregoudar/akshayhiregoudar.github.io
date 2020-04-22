@@ -7,5 +7,4 @@ projects: true
 hidden: true
 description: "GitHub repo of face detector project"
 author: akshayhiregoudar
-externalLink: true
 ---
