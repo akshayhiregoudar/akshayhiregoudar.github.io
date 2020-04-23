@@ -12,3 +12,12 @@ author: Akshay Hiregoudar
 externalLink: false
 ---
 
+This is a list of my research projects.
+
+---
+
+- [Design and control of an autonomous unmanned aerial vehicle (UAV)](https://bmscemodularuav.weebly.com/)
+- [PixhawkData.jl](https://github.com/akshayhiregoudar/PixhawkData.jl)
+- JuliaFlight - Currently working on this exciting project. Stay tuned!
+
+---
