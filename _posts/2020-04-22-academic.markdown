@@ -21,5 +21,6 @@ This is a list of my academic projects.
 - [Face detection using the Viola-Jones algorithm](https://github.com/akshayhiregoudar/Face-Detector)
 - [Image classification pipeline based on support vector machine (SVM) classifier](https://github.com/akshayhiregoudar/Machine-Learning)
 - [Multi-objective path planning optimization of a ground mobile robot](https://github.com/akshayhiregoudar/Path-Planning-Robot)
+- [Workspace generation of PUMA 560 robot](https://github.com/akshayhiregoudar/PUMA560)
 
 ---
