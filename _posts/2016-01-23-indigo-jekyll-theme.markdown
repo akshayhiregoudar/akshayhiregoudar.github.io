@@ -10,7 +10,7 @@ description: "Link to my academic projects"
 category: project
 author: Akshay Hiregoudar
 externalLink: false
----
+
 title: "Research"
 layout: post
 date: 2020-04-22 00:00
