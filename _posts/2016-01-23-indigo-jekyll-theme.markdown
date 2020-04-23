@@ -22,3 +22,17 @@ This is a list of my academic projects.
 - [Multi-objective path planning optimization of a ground mobile robot](https://github.com/akshayhiregoudar/Path-Planning-Robot)
 
 ---
+
+---
+title: "Research"
+layout: post
+date: 2020-04-22 00:00
+tag: jekyll
+headerImage: true
+projects: true
+hidden: true # don't count this post in blog pagination
+description: "Link to my research projects"
+category: project
+author: Akshay Hiregoudar
+externalLink: false
+---
