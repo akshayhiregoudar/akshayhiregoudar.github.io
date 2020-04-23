@@ -1,0 +1,23 @@
+---
+title: "Research"
+layout: post
+date: 2020-04-23 00:00
+tag: jekyll
+headerImage: true
+projects: true
+hidden: true # don't count this post in blog pagination
+description: "This is a simple and minimalist template for Jekyll for those who likes to eat noodles."
+category: project
+author: Akshay Hiregoudar
+externalLink: false
+---
+
+This is a list of my research projects.
+
+---
+
+- [Design and control of an autonomous unmanned aerial vehicle (UAV)](https://bmscemodularuav.weebly.com/)
+- [PixhawkData.jl](https://github.com/akshayhiregoudar/PixhawkData.jl)
+- JuliaFlight - Currently working on this exciting project. Stay tuned!
+
+---

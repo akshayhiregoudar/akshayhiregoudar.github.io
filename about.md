@@ -2,7 +2,6 @@
 title: About
 layout: page
 ---
-![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
 <p>My name is Akshay Hiregoudar and I am a graduate student in the department of mechanical engineering at <a href="https://tamu.edu">Texas A&M University</a> currently working as a Graduate Student Researcher at the <a href="https://isrlab.github.io/">Intelligent Systems Research Laboratory </a> with <a href="https://engineering.tamu.edu/aerospace/profiles/rbhattacharya.html">Dr. Raktim Bhattacharya</a>. My research interests include Unmanned Aerial Vehicles, Robotics, and Autonomous Systems.</p>
 
