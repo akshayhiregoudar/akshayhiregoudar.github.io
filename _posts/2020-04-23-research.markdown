@@ -16,8 +16,8 @@ This is a list of my research projects.
 
 ---
 
-- [Design and control of an autonomous unmanned aerial vehicle (UAV)](https://bmscemodularuav.weebly.com/)
-- [PixhawkData.jl](https://github.com/akshayhiregoudar/PixhawkData.jl)
+- [Design and control of an autonomous unmanned aerial vehicle (UAV)](https://bmscemodularuav.weebly.com/){:target="_blank"}
+- [PixhawkData.jl](https://github.com/akshayhiregoudar/PixhawkData.jl){:target="_blank"}
 - JuliaFlight - Currently working on this exciting project. Stay tuned!
 
 ---
