@@ -24,9 +24,8 @@ layout: page
 	<li>LaTeX</li>
 </ul>
 
----
+<!---
 <h2>Projects</h2>
-
 <ul>
 	<li><a href="https://github.com/akshayhiregoudar/Face-Detector">Face detection using the Viola-Jones algorithm</a></li>
 	<li><a href="https://github.com/akshayhiregoudar/Machine-Learning">Image classification pipeline based on support vector machine (SVM) classifier</a></li>
@@ -34,4 +33,4 @@ layout: page
 	<li><a href="https://bmscemodularuav.weebly.com/">Design and control of an autonomous unmanned aerial vehicle (UAV)</a></li>
 	<li><a href="https://github.com/akshayhiregoudar/PixhawkData.jl"> PixhawkData.jl</a></li>
 </ul>
----
+-->
