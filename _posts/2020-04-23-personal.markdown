@@ -18,7 +18,7 @@ This is a list of my personal projects.
 
 ---
 
-- [An Introduction to Julia and ControlSystems.jl](https://github.com/akshayhiregoudar/Introduction-To-Julia)
-- [Random 3D CAD files](https://github.com/akshayhiregoudar/CAD-Files)
+- [An Introduction to Julia and ControlSystems.jl](https://github.com/akshayhiregoudar/Introduction-To-Julia){:target="_blank"}
+- [Random 3D CAD files](https://github.com/akshayhiregoudar/CAD-Files){:target="_blank"}
 
 ---
