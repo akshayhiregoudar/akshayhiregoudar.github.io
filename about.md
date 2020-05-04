@@ -3,7 +3,7 @@ title: About
 layout: page
 ---
 
-<p>My name is Akshay Hiregoudar and I am a graduate student in the department of mechanical engineering at <a href="https://tamu.edu">Texas A&M University</a> currently working as a Graduate Student Researcher at the <a href="https://isrlab.github.io/">Intelligent Systems Research Laboratory </a> with <a href="https://engineering.tamu.edu/aerospace/profiles/rbhattacharya.html">Dr. Raktim Bhattacharya</a>. My research interests include Unmanned Aerial Vehicles, Robotics, and Autonomous Systems.</p>
+<p>I am a graduate student in the department of mechanical engineering at <a href="https://tamu.edu">Texas A&M University</a> currently working as a Graduate Student Researcher at the <a href="https://isrlab.github.io/">Intelligent Systems Research Laboratory </a> with <a href="https://engineering.tamu.edu/aerospace/profiles/rbhattacharya.html">Dr. Raktim Bhattacharya</a>. My research interests include Unmanned Aerial Vehicles, Robotics, and Autonomous Systems.</p>
 
 <p></p>
 
@@ -22,9 +22,9 @@ layout: page
 	<li>Ansys</li>
 	<li>Travis CI</li>
 	<li>LaTeX</li>
-	<li>Microsoft Office</li>
 </ul>
 
+---
 <h2>Projects</h2>
 
 <ul>
@@ -34,3 +34,4 @@ layout: page
 	<li><a href="https://bmscemodularuav.weebly.com/">Design and control of an autonomous unmanned aerial vehicle (UAV)</a></li>
 	<li><a href="https://github.com/akshayhiregoudar/PixhawkData.jl"> PixhawkData.jl</a></li>
 </ul>
+---
