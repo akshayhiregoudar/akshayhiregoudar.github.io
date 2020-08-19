@@ -15,9 +15,9 @@ externalLink: false
 This is a list of my research projects.
 
 ---
-
+- [Control and navigation of ground robots](https://github.com/akshayhiregoudar/TurtleBot3){:target="_blank"}
 - [Design and control of an autonomous unmanned aerial vehicle (UAV)](https://bmscemodularuav.weebly.com/){:target="_blank"}
 - [PixhawkData.jl](https://github.com/akshayhiregoudar/PixhawkData.jl){:target="_blank"}
-- JuliaFlight - Currently working on this exciting project. Stay tuned!
+- JuliaFlight
 
 ---
