@@ -3,7 +3,7 @@ title: About
 layout: page
 ---
 
-<p>My name is Akshay Hiregoudar and I am a graduate student in the department of mechanical engineering at <a href="https://tamu.edu">Texas A&M University</a> specializing in Robotics and Controls. I am currently working as a Graduate Student Researcher at the <a href="https://isrlab.github.io/">Intelligent Systems Research Laboratory </a> with <a href="https://engineering.tamu.edu/aerospace/profiles/rbhattacharya.html">Dr. Raktim Bhattacharya</a>. My research interests include Robotics, Autonomous Systems, and Embedded Systems.</p>
+<p>My name is Akshay Hiregoudar and I graduated with a master's in Mechanical Engineering with a specialization in Robotics and Controls from <a href="https://tamu.edu">Texas A&M University</a>. I worked as a Graduate Student Researcher at the <a href="https://isrlab.github.io/">Intelligent Systems Research Laboratory </a> with <a href="https://engineering.tamu.edu/aerospace/profiles/rbhattacharya.html">Dr. Raktim Bhattacharya</a>. My research interests include Robotics, Autonomous Systems, and Embedded Systems.</p>
 
 <p></p>
 
@@ -16,7 +16,6 @@ layout: page
 	<li>Julia</li>
 	<li>ROS</li>
 	<li>SolidWorks</li>
-	<li>Catia</li>
 	<li>Gazebo</li>
 	<li>Simulink</li>
 	<li>Git</li>
@@ -29,7 +28,8 @@ layout: page
 <h2>Projects</h2>
 
 <ul>
-	<li><a href="https://github.com/akshayhiregoudar/skateboard-obstacle-detection">Obstacle Detection and Force Estimation during Skateboarding</a></li>
+	<li><a href="https://github.com/akshayhiregoudar/TurtleBot3">Control and Navigation of ground robots</a></li>
+	<li><a href="https://github.com/akshayhiregoudar/skateboard-obstacle-detection">Obstacle detection and force estimation during skateboarding</a></li>
 	<li><a href="https://github.com/akshayhiregoudar/Face-Detector">Face detection using the Viola-Jones algorithm</a></li>
 	<li><a href="https://github.com/akshayhiregoudar/Machine-Learning">Image classification pipeline based on support vector machine (SVM) classifier</a></li>
 	<li><a href="https://github.com/akshayhiregoudar/Path-Planning-Robot">Multi-objective path planning optimization of a ground mobile robot</a></li>
