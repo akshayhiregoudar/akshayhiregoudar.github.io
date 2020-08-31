@@ -3,7 +3,7 @@ title: About
 layout: page
 ---
 
-<p>My name is Akshay Hiregoudar and I graduated with a master's in Mechanical Engineering with a specialization in Robotics and Controls from <a href="https://tamu.edu">Texas A&M University</a>. I worked as a Graduate Student Researcher at the <a href="https://isrlab.github.io/">Intelligent Systems Research Laboratory </a> with <a href="https://engineering.tamu.edu/aerospace/profiles/rbhattacharya.html">Dr. Raktim Bhattacharya</a>. My research interests include Robotics, Autonomous Systems, and Embedded Systems.</p>
+<p>I graduated with a master's in Mechanical Engineering from <a href="https://tamu.edu">Texas A&M University</a>. I specialized in Robotics and Controls. I worked as a Graduate Student Researcher at the <a href="https://isrlab.github.io/">Intelligent Systems Research Laboratory </a> with <a href="https://engineering.tamu.edu/aerospace/profiles/rbhattacharya.html">Dr. Raktim Bhattacharya</a>. My research interests include Robotics, Autonomous Systems, and Embedded Systems.</p>
 
 <p></p>
 
