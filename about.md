@@ -3,7 +3,7 @@ title: About
 layout: page
 ---
 
-<p>I graduated with a master's in Mechanical Engineering from <a href="https://tamu.edu">Texas A&M University</a> with a specialization in Robotics and Controls. I worked as a Graduate Research Assistant at the <a href="https://isrlab.github.io/">Intelligent Systems Research Laboratory </a> with <a href="https://engineering.tamu.edu/aerospace/profiles/rbhattacharya.html">Dr. Raktim Bhattacharya</a>. My research interests include Robotics, UAVs, and, Autonomous Systems.</p>
+<p>I graduated with a master's in Mechanical Engineering from <a href="https://tamu.edu">Texas A&M University</a> with a specialization in Robotics and Controls. I worked as a Graduate Research Assistant at the <a href="https://isrlab.github.io/">Intelligent Systems Research Laboratory </a> with <a href="https://engineering.tamu.edu/aerospace/profiles/rbhattacharya.html">Dr. Raktim Bhattacharya</a>. My research interests include Robotics, UAVs, and Autonomous Systems.</p>
 
 <p>I have hands-on experience with the aerial, ground, and underwater robots and have worked on projects related to State Estimation, SLAM, Path Planning, Bayesian Filtering, Sensor Fusion, Visual Recognition, Object Detection, Controls, 3D Design, and Simulation.</p>
 
